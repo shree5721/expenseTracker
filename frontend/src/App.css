@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    padding: 18px 0px;
+    background-color: #120D31;
+    color: #fff;
+    margin-bottom: 30px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}

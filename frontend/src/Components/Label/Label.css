@@ -1,0 +1,16 @@
+.flex_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1.5rem;
+}
+.flex_container p{
+    color: #0f5190;
+    font-weight: 600;
+    font-size: 0.92rem;
+}
+.flex_container .expense_type p{
+    border-left: 4px solid var(--yellow);
+    padding-left: 5px;
+    border-radius: 1px;
+}

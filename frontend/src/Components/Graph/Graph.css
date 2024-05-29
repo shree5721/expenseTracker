@@ -1,0 +1,18 @@
+.chart_container{
+    max-width: 20rem;
+}
+.chart{
+    position: relative;
+}
+.total{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    text-align: center;
+    color: #22577a;
+}
+.totalAmount{
+    display: block;
+    color: #4658cd;
+    font-size: 1.7rem;
+}
